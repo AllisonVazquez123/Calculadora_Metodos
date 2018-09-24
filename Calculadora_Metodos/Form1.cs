@@ -20,7 +20,7 @@ namespace Calculadora_Metodos
 
         private void label3_Click(object sender, EventArgs e)
         {
-          
+            string variable = "Hokla";
         }
 
         private void Form1_Load(object sender, EventArgs e)

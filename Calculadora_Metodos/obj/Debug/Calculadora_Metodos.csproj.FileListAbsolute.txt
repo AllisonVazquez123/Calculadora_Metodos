@@ -1,0 +1,12 @@
+c:\users\allison vazquez z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\bin\Debug\Calculadora_Metodos.exe.config
+C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\bin\Debug\Calculadora_Metodos.exe
+C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\bin\Debug\Calculadora_Metodos.pdb
+C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.csprojResolveAssemblyReference.cache
+C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.Properties.Resources.resources
+C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.csproj.GenerateResource.Cache
+C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.exe
+C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.pdb
+C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.Puntofijo.resources
+C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.Biseccion.resources
+C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.secante.resources
+C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.Form2.resources

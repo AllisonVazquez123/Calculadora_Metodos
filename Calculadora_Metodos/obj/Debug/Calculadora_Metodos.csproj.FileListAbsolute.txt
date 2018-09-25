@@ -10,3 +10,6 @@ C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Met
 C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.Biseccion.resources
 C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.secante.resources
 C:\Users\Allison Vazquez Z\documents\visual studio 2015\Projects\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.Form2.resources
+C:\Users\ErickDaniel\Documents\GitHub\Calculadora_Metodos\Calculadora_Metodos\bin\Debug\Calculadora_Metodos.exe.config
+C:\Users\ErickDaniel\Documents\GitHub\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.exe
+C:\Users\ErickDaniel\Documents\GitHub\Calculadora_Metodos\Calculadora_Metodos\obj\Debug\Calculadora_Metodos.pdb

@@ -22,6 +22,7 @@ namespace Calculadora_Metodos
         {
             string variable = "Hokla";
             bool FD;
+            int entero;
         }
 
         private void Form1_Load(object sender, EventArgs e)
